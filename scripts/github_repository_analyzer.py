@@ -4,10 +4,10 @@ import csv
 from datetime import datetime
 
 GITHUB_TOKENS = [
-    'Token1',
-    'Token2',
-    'Token3',
-    'Token4'
+    'Token 1',
+    'Token 2',
+    'Token 3',
+    'Token 4'
 ]
 
 CURRENT_TOKEN_INDEX = 0
@@ -15,9 +15,6 @@ HEADERS = {'Authorization': f'token {GITHUB_TOKENS[CURRENT_TOKEN_INDEX]}'}
 
 GITHUB_API_URL = 'https://api.github.com'
 SEARCH_REPOS_URL = f'{GITHUB_API_URL}/search/repositories'
-
-RESULTS_CSV = 'github_repos_results.csv'
-ERRORS_CSV = 'github_repos_errors.csv'
 
 def switch_token():
     """Bascule vers le prochain token disponible."""
@@ -221,6 +218,9 @@ def main():
     error_data = []
 
     fieldnames = ['Name', 'URL', 'forks', 'watchers', 'stars_count', 'created_at', 'updated_at', 'fork', 'size', 'commit_count', 'files_count', 'C#_files_count']
+
+    RESULTS_CSV = f'github_csharp_repos_{start_date}_to_{end_date}.csv'
+    ERRORS_CSV = f'github_csharp_repos_errors_{start_date}_to_{end_date}.csv'
 
     print(f"Lancement de la requête pour la période {start_date} à {end_date}")
     repos = fetch_repositories(query, start_date, end_date)
