@@ -1,0 +1,7 @@
+Project,Design smell,Namespace,Class,File
+SimplCommerce,Deficient Encapsulation,SimplCommerce.Module.Core.Models,WidgetZoneIds,DesigniteProjects\SimplCommerce\src\Modules\SimplCommerce.Module.Core\Models\WidgetZoneIds.cs
+SimplCommerce,Deficient Encapsulation,SimplCommerce.Module.Core.Models,WidgetZoneIds,DesigniteProjects\SimplCommerce\src\Modules\SimplCommerce.Module.Core\Models\WidgetZoneIds.cs
+SimplCommerce,Deficient Encapsulation,SimplCommerce.Module.Orders.Areas.Orders.ViewModels,CartItemVm,DesigniteProjects\SimplCommerce\src\Modules\SimplCommerce.Module.Orders\Areas\Orders\ViewModels\CartItemVm.cs
+SimplCommerce,Deficient Encapsulation,SimplCommerce.Module.Cms.Areas.Cms.ViewModels,SpaceBarWidgetForm,DesigniteProjects\SimplCommerce\src\Modules\SimplCommerce.Module.Cms\Areas\Cms\ViewModels\SpaceBarWidgetForm.cs
+SimplCommerce,Deficient Encapsulation,SimplCommerce.Module.ShippingPrices.Services,GetShippingPriceResponse,DesigniteProjects\SimplCommerce\src\Modules\SimplCommerce.Module.ShippingPrices\Services\GetShippingPriceResponse.cs
+SimplCommerce,Deficient Encapsulation,SimplCommerce.Module.Checkouts.Areas.Checkouts.ViewModels,CheckoutItemWithTaxVm,DesigniteProjects\SimplCommerce\src\Modules\SimplCommerce.Module.Checkouts\Areas\Checkouts\ViewModels\CheckoutItemWithTaxVm.cs

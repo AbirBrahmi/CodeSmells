@@ -1,0 +1,752 @@
+Project,Implementation smell,Namespace,Class,File,Method
+Blog.Core,Long Method,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,MigratePermission
+Blog.Core,Complex Method,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,GetNavigationBar
+Blog.Core,Complex Method,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,GetNavigationBarPro
+Blog.Core,Complex Method,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,MigratePermission
+Blog.Core,Complex Method,Blog.Core.Controllers,UserController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\UserController.cs,Put
+Blog.Core,Long Parameter List,Blog.Core.Controllers,BaseApiController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BaseApiController.cs,SuccessPage
+Blog.Core,Long Parameter List,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,MigrateController
+Blog.Core,Long Parameter List,Blog.Core.Controllers,LoginController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\LoginController.cs,LoginController
+Blog.Core,Long Parameter List,Blog.Core.Controllers,LoginController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\LoginController.cs,Getjsonp
+Blog.Core,Long Parameter List,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,PermissionController
+Blog.Core,Long Parameter List,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,MigratePermission
+Blog.Core,Long Parameter List,Blog.Core.Controllers,TasksQzController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\TasksQzController.cs,GetTaskLogs
+Blog.Core,Long Parameter List,Blog.Core.Controllers,TasksQzController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\TasksQzController.cs,GetTaskOverview
+Blog.Core,Long Parameter List,Blog.Core.Controllers,UserController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\UserController.cs,UserController
+Blog.Core,Long Parameter List,Blog.Core.Controllers,ValuesController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\ValuesController.cs,ValuesController
+Blog.Core,Long Parameter List,Blog.Core.Api.Controllers,SplitDemoController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\SplitDemoController.cs,Get
+Blog.Core,Long Statement,Blog.Core.Controllers,BlogController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BlogController.cs,Get
+Blog.Core,Long Statement,Blog.Core.Controllers,BlogController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BlogController.cs,Get
+Blog.Core,Long Statement,Blog.Core.Controllers,BlogController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BlogController.cs,GetBlogsByTypesForMVP
+Blog.Core,Long Statement,Blog.Core.Controllers,BlogController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BlogController.cs,Delete
+Blog.Core,Long Statement,Blog.Core.Controllers,BlogController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BlogController.cs,ApacheTestUpdate
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetFrameFiles
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetFrameFiles
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetFrameFiles
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetFrameFiles
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetFrameFiles
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetFrameFilesByTableNames
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetFrameFilesByTableNames
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetFrameFilesByTableNames
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetFrameFilesByTableNamesForController
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetAllFrameFilesByTableNames
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetAllFrameFilesByTableNames
+Blog.Core,Long Statement,Blog.Core.Controllers,DbFirstController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\DbFirstController.cs,GetAllFrameFilesByTableNames
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2TsvAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SaveData2ExcelAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,SavePermissionTreeAsync
+Blog.Core,Long Statement,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,Get
+Blog.Core,Long Statement,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,GetNavigationBar
+Blog.Core,Long Statement,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,GetNavigationBar
+Blog.Core,Long Statement,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,GetNavigationBar
+Blog.Core,Long Statement,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,GetNavigationBarPro
+Blog.Core,Long Statement,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,GetNavigationBarPro
+Blog.Core,Long Statement,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,GetNavigationBarPro
+Blog.Core,Long Statement,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,GetNavigationBarPro
+Blog.Core,Long Statement,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,MigratePermission
+Blog.Core,Long Statement,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,MigratePermission
+Blog.Core,Long Statement,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,MigratePermission
+Blog.Core,Long Statement,Blog.Core.Controllers,RoleController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\RoleController.cs,Get
+Blog.Core,Long Statement,Blog.Core.Controllers,TasksQzController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\TasksQzController.cs,GetTaskNameSpace
+Blog.Core,Long Statement,Blog.Core.Controllers,TasksQzController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\TasksQzController.cs,GetTaskNameSpace
+Blog.Core,Long Statement,Blog.Core.Controllers,TopicDetailController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\TopicDetailController.cs,Get
+Blog.Core,Long Statement,Blog.Core.Controllers,UserController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\UserController.cs,Get
+Blog.Core,Long Statement,Blog.Core.Api.Controllers,DepartmentController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DepartmentController.cs,SaveData2Tsv
+Blog.Core,Long Statement,Blog.Core.Api.Controllers,DepartmentController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DepartmentController.cs,SaveData2Tsv
+Blog.Core,Long Statement,Blog.Core.Api.Controllers,NacosController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\NacosController.cs,Register
+Blog.Core,Long Statement,Blog.Core.Api.Controllers,NacosController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\NacosController.cs,Deregister
+Blog.Core,Empty Catch Block,Blog.Core.Controllers,MonitorController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\MonitorController.cs,GetAccessLogsToday
+Blog.Core,Empty Catch Block,Blog.Core.Controllers,MonitorController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\MonitorController.cs,GetAccessLogsTrend
+Blog.Core,Magic Number,Blog.Core.Controllers,BlogController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BlogController.cs,Get
+Blog.Core,Magic Number,Blog.Core.Controllers,BlogController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BlogController.cs,Get
+Blog.Core,Magic Number,Blog.Core.Controllers,BlogController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BlogController.cs,Get
+Blog.Core,Magic Number,Blog.Core.Controllers,BlogController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BlogController.cs,Get
+Blog.Core,Magic Number,Blog.Core.Controllers,BlogController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BlogController.cs,Post
+Blog.Core,Magic Number,Blog.Core.Controllers,BlogController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\BlogController.cs,Post
+Blog.Core,Magic Number,Blog.Core.Controllers,MigrateController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\DbFirst\MigrateController.cs,DataMigrateFromOld2New
+Blog.Core,Magic Number,Blog.Core.Controllers,ImgController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\ImgController.cs,InsertPicture
+Blog.Core,Magic Number,Blog.Core.Controllers,ImgController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\ImgController.cs,InsertPicture
+Blog.Core,Magic Number,Blog.Core.Controllers,ImgController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\ImgController.cs,InsertPicture
+Blog.Core,Magic Number,Blog.Core.Controllers,ModuleController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\ModuleController.cs,Get
+Blog.Core,Magic Number,Blog.Core.Controllers,MonitorController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\MonitorController.cs,Server
+Blog.Core,Magic Number,Blog.Core.Controllers,MonitorController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\MonitorController.cs,GetActiveUsers
+Blog.Core,Magic Number,Blog.Core.Controllers,MonitorController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\MonitorController.cs,GetActiveUsers
+Blog.Core,Magic Number,Blog.Core.Controllers,MonitorController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\MonitorController.cs,GetActiveUsers
+Blog.Core,Magic Number,Blog.Core.Controllers,MonitorController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\MonitorController.cs,GetIds4Users
+Blog.Core,Magic Number,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,GetNavigationBar
+Blog.Core,Magic Number,Blog.Core.Controllers,PermissionController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\PermissionController.cs,MigratePermission
+Blog.Core,Magic Number,Blog.Core.Controllers,RoleController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\RoleController.cs,Get
+Blog.Core,Magic Number,Blog.Core.Controllers,TasksQzController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\TasksQzController.cs,Get
+Blog.Core,Magic Number,Blog.Core.Controllers,UserController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\UserController.cs,Get
+Blog.Core,Magic Number,Blog.Core.Controllers,ValuesController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\ValuesController.cs,Get
+Blog.Core,Magic Number,Blog.Core.Controllers,ValuesController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\ValuesController.cs,TestCacheAsync
+Blog.Core,Magic Number,Blog.Core.Api.Controllers,NacosController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\NacosController.cs,GetStatus
+Blog.Core,Magic Number,Blog.Core.Api.Controllers,NacosController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\NacosController.cs,GetStatus
+Blog.Core,Magic Number,Blog.Core.Api.Controllers,NacosController,DesigniteProjects\Blog.Core\Blog.Core.Api\Controllers\NacosController.cs,Register
+Blog.Core,Magic Number,Blog.Core.Filter,GlobalExceptionsFilter,DesigniteProjects\Blog.Core\Blog.Core.Api\Filter\GlobalExceptionFilter.cs,OnException
+Blog.Core,Magic Number,Blog.Core.Filter,CarInfoValidator,DesigniteProjects\Blog.Core\Blog.Core.Api\Filter\UserRegisterVo.cs,CarInfoValidator
+Blog.Core,Magic Number,Blog.Core.Model,ApiResponse,DesigniteProjects\Blog.Core\Blog.Core.Model\ApiResponse.cs,ApiResponse
+Blog.Core,Magic Number,Blog.Core.Model,ApiResponse,DesigniteProjects\Blog.Core\Blog.Core.Model\ApiResponse.cs,ApiResponse
+Blog.Core,Magic Number,Blog.Core.Model,ApiResponse,DesigniteProjects\Blog.Core\Blog.Core.Model\ApiResponse.cs,ApiResponse
+Blog.Core,Magic Number,Blog.Core.Model,ApiResponse,DesigniteProjects\Blog.Core\Blog.Core.Model\ApiResponse.cs,ApiResponse
+Blog.Core,Missing Default,Blog.Core.Model,ApiResponse,DesigniteProjects\Blog.Core\Blog.Core.Model\ApiResponse.cs,ApiResponse
+Blog.Core,Long Parameter List,Blog.Core.Repository.Base,BaseRepository<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\BaseRepository.cs,QueryTabsPage
+Blog.Core,Long Parameter List,Blog.Core.Repository.Base,BaseRepository<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\BaseRepository.cs,QueryTabsPage
+Blog.Core,Long Parameter List,Blog.Core.Repository.Base,BaseRepository<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\BaseRepository.cs,QueryPageSplit
+Blog.Core,Long Parameter List,Blog.Core.IRepository.Base,IBaseRepository,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\IBaseRepository.cs,QueryTabsPage
+Blog.Core,Long Parameter List,Blog.Core.IRepository.Base,IBaseRepository,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\IBaseRepository.cs,QueryTabsPage
+Blog.Core,Long Parameter List,Blog.Core.IRepository.Base,IBaseRepository,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\IBaseRepository.cs,QueryPageSplit
+Blog.Core,Long Statement,Blog.Core.Repository.Base,BaseRepository<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\BaseRepository.cs,Query
+Blog.Core,Long Statement,Blog.Core.Repository.Base,BaseRepository<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\BaseRepository.cs,Query
+Blog.Core,Long Statement,Blog.Core.Repository.Base,BaseRepository<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\BaseRepository.cs,Query
+Blog.Core,Long Statement,Blog.Core.Repository.Base,BaseRepository<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\BaseRepository.cs,Query
+Blog.Core,Long Statement,Blog.Core.Repository.Base,BaseRepository<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\BaseRepository.cs,Query
+Blog.Core,Long Statement,Blog.Core.Repository.Base,BaseRepository<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\BaseRepository.cs,Query
+Blog.Core,Long Statement,Blog.Core.Repository.Base,BaseRepository<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\BaseRepository.cs,Query
+Blog.Core,Magic Number,Blog.Core.Repository.Base,BaseRepository<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Repository\BASE\BaseRepository.cs,QueryById
+Blog.Core,Magic Number,Blog.Core.Repository,RoleModulePermissionRepository,DesigniteProjects\Blog.Core\Blog.Core.Repository\RoleModulePermissionRepository.cs,GetRMPMapsPage
+Blog.Core,Magic Number,Blog.Core.Repository,RoleModulePermissionRepository,DesigniteProjects\Blog.Core\Blog.Core.Repository\RoleModulePermissionRepository.cs,GetRMPMapsPage
+Blog.Core,Long Parameter List,Blog.Core.IServices.BASE,IBaseServices,DesigniteProjects\Blog.Core\Blog.Core.IServices\BASE\IBaseServices.cs,QueryPageSplit
+Blog.Core,Long Parameter List,Blog.Core.IServices,ITasksLogServices,DesigniteProjects\Blog.Core\Blog.Core.IServices\ITasksLogServices.cs,GetTaskLogs
+Blog.Core,Long Method,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,Pay
+Blog.Core,Long Method,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,PayCheck
+Blog.Core,Long Method,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,PushText
+Blog.Core,Complex Method,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,PushTxtMsg
+Blog.Core,Complex Method,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,PushText
+Blog.Core,Complex Method,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,HandleWeChat
+Blog.Core,Long Parameter List,Blog.Core.Services,GuestbookServices,DesigniteProjects\Blog.Core\Blog.Core.Services\GuestbookServices.cs,GuestbookServices
+Blog.Core,Long Parameter List,Blog.Core.Services,TasksLogServices,DesigniteProjects\Blog.Core\Blog.Core.Services\TasksLogServices.cs,GetTaskLogs
+Blog.Core,Long Parameter List,Blog.Core.Services.BASE,BaseServices<TEntity>,DesigniteProjects\Blog.Core\Blog.Core.Services\BASE\BaseServices.cs,QueryPageSplit
+Blog.Core,Long Statement,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,Pay
+Blog.Core,Long Statement,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,Pay
+Blog.Core,Long Statement,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,PayRefund
+Blog.Core,Long Statement,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,PayRefund
+Blog.Core,Long Statement,Blog.Core.Services,TasksLogServices,DesigniteProjects\Blog.Core\Blog.Core.Services\TasksLogServices.cs,GetTaskOverview
+Blog.Core,Long Statement,Blog.Core.Services,TasksLogServices,DesigniteProjects\Blog.Core\Blog.Core.Services\TasksLogServices.cs,GetTaskOverview
+Blog.Core,Long Statement,Blog.Core.Services,TasksLogServices,DesigniteProjects\Blog.Core\Blog.Core.Services\TasksLogServices.cs,GetTaskOverview
+Blog.Core,Long Statement,Blog.Core.Services,TasksLogServices,DesigniteProjects\Blog.Core\Blog.Core.Services\TasksLogServices.cs,GetTaskOverview
+Blog.Core,Long Statement,Blog.Core.Services,TasksLogServices,DesigniteProjects\Blog.Core\Blog.Core.Services\TasksLogServices.cs,GetTaskOverview
+Blog.Core,Long Statement,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,PushCardMsg
+Blog.Core,Long Statement,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,PushTxtMsg
+Blog.Core,Long Statement,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,PushTxtMsg
+Blog.Core,Long Statement,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,GetBindUserInfo
+Blog.Core,Long Statement,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,UnBind
+Blog.Core,Long Statement,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,UnBind
+Blog.Core,Long Statement,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,QRBind
+Blog.Core,Long Statement,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,QRBind
+Blog.Core,Long Statement,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,QRBind
+Blog.Core,Magic Number,Blog.Core.Services,BlogArticleServices,DesigniteProjects\Blog.Core\Blog.Core.Services\BlogArticleServices.cs,GetBlogDetails
+Blog.Core,Magic Number,Blog.Core.Services,BlogArticleServices,DesigniteProjects\Blog.Core\Blog.Core.Services\BlogArticleServices.cs,GetBlogDetails
+Blog.Core,Magic Number,Blog.Core.Services,BlogArticleServices,DesigniteProjects\Blog.Core\Blog.Core.Services\BlogArticleServices.cs,GetBlogDetails
+Blog.Core,Magic Number,Blog.Core.Services,BlogArticleServices,DesigniteProjects\Blog.Core\Blog.Core.Services\BlogArticleServices.cs,GetBlogDetails
+Blog.Core,Magic Number,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,Pay
+Blog.Core,Magic Number,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,Pay
+Blog.Core,Magic Number,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,PayRefund
+Blog.Core,Magic Number,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,PayCheck
+Blog.Core,Magic Number,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,PayCheck
+Blog.Core,Magic Number,Blog.Core.Services,PayServices,DesigniteProjects\Blog.Core\Blog.Core.Services\PayServices.cs,PayCheck
+Blog.Core,Magic Number,Blog.Core.Services,WeChatConfigServices,DesigniteProjects\Blog.Core\Blog.Core.Services\WeChatConfigServices.cs,GetQRBind
+Blog.Core,Long Method,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Long Method,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,GetLogData
+Blog.Core,Long Method,Blog.Core.Common.Seed,DBSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\DBSeed.cs,SeedAsync
+Blog.Core,Long Method,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,Create_Controller_ClassFileByDBTalbe
+Blog.Core,Complex Method,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Complex Method,Blog.Core.Common.Helper,DynamicLinqFactory,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\DynamicLinqFactory.cs,SplitOperationSymbol
+Blog.Core,Complex Method,Blog.Core.Common.Helper,DynamicLinqFactory,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\DynamicLinqFactory.cs,FormatString
+Blog.Core,Complex Method,Blog.Core.Common.Helper,DynamicLinqFactory,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\DynamicLinqFactory.cs,ChangeOperationSymbol
+Blog.Core,Complex Method,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,GetValueLength
+Blog.Core,Complex Method,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Complex Method,Blog.Core.Common.Helper,CharState,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,CheckIsError
+Blog.Core,Complex Method,Blog.Core.Common.Helper,RSAHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelper.cs,CreateRsaProviderFromPublicKey
+Blog.Core,Complex Method,Blog.Core,UtilConvert,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\UtilConvert.cs,ChangeType
+Blog.Core,Complex Method,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_cbc
+Blog.Core,Complex Method,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,OutLogAOP
+Blog.Core,Complex Method,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,OutSql2LogToDB
+Blog.Core,Complex Method,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,ReadLog
+Blog.Core,Complex Method,Blog.Core.Common.Seed,DBSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\DBSeed.cs,SeedAsync
+Blog.Core,Long Parameter List,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,CryptImportKey
+Blog.Core,Long Parameter List,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,CryptAcquireContext
+Blog.Core,Long Parameter List,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,CryptStringToBinary
+Blog.Core,Long Parameter List,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,CryptDecodeObjectEx
+Blog.Core,Long Parameter List,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,CryptDecodeObject
+Blog.Core,Long Parameter List,Blog.Core.Common.Extensions,Extention,DesigniteProjects\Blog.Core\Blog.Core.Common\Extensions\Extention.Expression.cs,Invoke
+Blog.Core,Long Parameter List,Blog.Core.Common.Extensions,Extention,DesigniteProjects\Blog.Core\Blog.Core.Common\Extensions\Extention.Expression.cs,Invoke
+Blog.Core,Long Parameter List,Blog.Core.Common.Extensions,Extention,DesigniteProjects\Blog.Core\Blog.Core.Common\Extensions\Extention.Expression.cs,Invoke
+Blog.Core,Long Parameter List,Blog.Core.Common.Extensions,Extention,DesigniteProjects\Blog.Core\Blog.Core.Common\Extensions\Extention.Expression.cs,Invoke
+Blog.Core,Long Parameter List,Blog.Core.Common.Extensions,Extention,DesigniteProjects\Blog.Core\Blog.Core.Common\Extensions\Extention.Expression.cs,Invoke
+Blog.Core,Long Parameter List,Blog.Core.Common.Extensions,Extention,DesigniteProjects\Blog.Core\Blog.Core.Common\Extensions\Extention.Expression.cs,Invoke
+Blog.Core,Long Parameter List,Blog.Core.Common.Extensions,Extention,DesigniteProjects\Blog.Core\Blog.Core.Common\Extensions\Extention.Expression.cs,Invoke
+Blog.Core,Long Parameter List,Blog.Core.Common.Helper,ExpressionExtensions_Nacos,DesigniteProjects\Blog.Core\Blog.Core.Common\Extensions\ExpressionExtensions_Nacos.cs,Cof_NaoceGet
+Blog.Core,Long Parameter List,Blog.Core.Common.Helper,ExpressionExtensions_Nacos,DesigniteProjects\Blog.Core\Blog.Core.Common\Extensions\ExpressionExtensions_Nacos.cs,Cof_NaocePostForm
+Blog.Core,Long Parameter List,Blog.Core.Common.Helper,ExpressionExtensions_Nacos,DesigniteProjects\Blog.Core\Blog.Core.Common\Extensions\ExpressionExtensions_Nacos.cs,Cof_NaocePostJson
+Blog.Core,Long Parameter List,Blog.Core.Common.Helper,ExpressionExtensions_Nacos,DesigniteProjects\Blog.Core\Blog.Core.Common\Extensions\ExpressionExtensions_Nacos.cs,Cof_NaocePostFile
+Blog.Core,Long Parameter List,Blog.Core.Common.Helper,RecursionHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RecursionHelper.cs,LoopToAppendChildrenT
+Blog.Core,Long Parameter List,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4F
+Blog.Core,Long Parameter List,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,OutSql2LogToFile
+Blog.Core,Long Parameter List,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,ReadLog
+Blog.Core,Long Parameter List,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,Create_Controller_ClassFileByDBTalbe
+Blog.Core,Long Parameter List,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,Create_Model_ClassFileByDBTalbe
+Blog.Core,Long Parameter List,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,Create_IRepository_ClassFileByDBTalbe
+Blog.Core,Long Parameter List,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,Create_IServices_ClassFileByDBTalbe
+Blog.Core,Long Parameter List,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,Create_Repository_ClassFileByDBTalbe
+Blog.Core,Long Parameter List,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,Create_Services_ClassFileByDBTalbe
+Blog.Core,Long Statement,Blog.Core.Common,DES_ENCRY_DECRY,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,DESEncrypt
+Blog.Core,Long Statement,Blog.Core.Common,DES_ENCRY_DECRY,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,DESDecrypt
+Blog.Core,Long Statement,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetPublicKeyBlobFromRSA
+Blog.Core,Long Statement,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetPublicKeyBlobFromRSA
+Blog.Core,Long Statement,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetRSAFromDER
+Blog.Core,Long Statement,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetRSAFromDER
+Blog.Core,Long Statement,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetRSAFromDER
+Blog.Core,Long Statement,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetDERFromPEM
+Blog.Core,Long Statement,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetDERFromPEM
+Blog.Core,Long Statement,Blog.Core.Common.Helper,QueryableExtensions,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\DynamicLinqFactory.cs,ISort
+Blog.Core,Long Statement,Blog.Core.Common.Helper,FileHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\FileHelper.cs,GetAvailableFileWithPrefixOrderSize
+Blog.Core,Long Statement,Blog.Core.Common.Helper,FileHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\FileHelper.cs,GetAvailableFileNameWithPrefixOrderSize
+Blog.Core,Long Statement,Blog.Core.Common.Helper,IpHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\IpHelper.cs,GetCurrentIp
+Blog.Core,Long Statement,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,JSON
+Blog.Core,Long Statement,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,JSON1
+Blog.Core,Long Statement,Blog.Core.Common.Helper,NumberConverter,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\NumberConverter.cs,CanConvert
+Blog.Core,Long Statement,Blog.Core.Common.Helper,NumberConverter,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\NumberConverter.cs,WriteJson
+Blog.Core,Long Statement,Blog.Core.Common.Helper,RecursionHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RecursionHelper.cs,LoopToAppendChildrenT
+Blog.Core,Long Statement,Blog.Core.Common.Helper,RSAHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelper.cs,Decrypt
+Blog.Core,Long Statement,Blog.Core.Common.Helper,RSAHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelper.cs,Encrypt
+Blog.Core,Long Statement,Blog.Core.Common.Helper,RSAHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelper.cs,CreateRsaProviderFromPublicKey
+Blog.Core,Long Statement,Blog.Core.Common.Helper,RSAHelperExtend,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelperExtend.cs,RSAPrivateKeyDotNet2Java
+Blog.Core,Long Statement,Blog.Core.Common.Helper,RSAHelperExtend,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelperExtend.cs,RSAPrivateKeyDotNet2Java
+Blog.Core,Long Statement,Blog.Core.Common.Helper,RSAHelperExtend,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelperExtend.cs,RSAPrivateKeyDotNet2Java
+Blog.Core,Long Statement,Blog.Core.Common.Helper,RSAHelperExtend,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelperExtend.cs,RSAPublicKeyDotNet2Java
+Blog.Core,Long Statement,Blog.Core.Common.Helper,RSAHelperExtend,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelperExtend.cs,RSAPublicKeyDotNet2Java
+Blog.Core,Long Statement,Blog.Core.Common.Helper,RSAHelperExtend,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelperExtend.cs,RSAPrivateKeyJavaToDotNet
+Blog.Core,Long Statement,Blog.Core.Common.Helper,RSAHelperExtend,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelperExtend.cs,RSAPrivateKeyJavaToDotNet
+Blog.Core,Long Statement,Blog.Core.Common.Helper,UnicodeHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\UnicodeHelper.cs,StringToUnicode
+Blog.Core,Long Statement,Blog.Core.Common.Helper,WeChatHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\WeChatHelper.cs,GetOpenidByCode
+Blog.Core,Long Statement,System,ConsoleTable,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Console\Table\ConsoleTable.cs,GetExistData
+Blog.Core,Long Statement,System,ConsoleTable,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Console\Table\ConsoleTable.cs,GetEnd
+Blog.Core,Long Statement,System,TableExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Console\Table\TableExtension.cs,GetTopAndDwon
+Blog.Core,Long Statement,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,ReadLog
+Blog.Core,Long Statement,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,GetRequestInfo
+Blog.Core,Long Statement,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,GetLogData
+Blog.Core,Long Statement,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,CreateControllers
+Blog.Core,Long Statement,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,CreateModels
+Blog.Core,Long Statement,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,CreateIRepositorys
+Blog.Core,Long Statement,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,CreateIServices
+Blog.Core,Long Statement,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,CreateRepository
+Blog.Core,Long Statement,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,CreateServices
+Blog.Core,Long Statement,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,Create_IRepository_ClassFileByDBTalbe
+Blog.Core,Long Statement,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,Create_IServices_ClassFileByDBTalbe
+Blog.Core,Long Statement,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,Create_Repository_ClassFileByDBTalbe
+Blog.Core,Long Statement,Blog.Core.Common.Seed,FrameSeed,DesigniteProjects\Blog.Core\Blog.Core.Common\Seed\FrameSeed.cs,Create_Services_ClassFileByDBTalbe
+Blog.Core,Complex Conditional,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Complex Conditional,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Complex Conditional,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Complex Conditional,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Complex Conditional,Blog.Core.Common.Helper,CharState,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,CheckIsError
+Blog.Core,Empty Catch Block,Blog.Core.Common,AppSettings,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Appsettings.cs,app
+Blog.Core,Empty Catch Block,Blog.Core.Common,AppSettings,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Appsettings.cs,GetValue
+Blog.Core,Empty Catch Block,Blog.Core.Common,DES_ENCRY_DECRY,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,Base64Encode
+Blog.Core,Empty Catch Block,Blog.Core.Common,DES_ENCRY_DECRY,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,Base64Decode
+Blog.Core,Empty Catch Block,Blog.Core.Common.AppConfig,AppSecretConfig,DesigniteProjects\Blog.Core\Blog.Core.Common\DB\AppSecretConfig.cs,DifDBConnOfSecurity
+Blog.Core,Empty Catch Block,Blog.Core.Common.DB,BaseDBConfig,DesigniteProjects\Blog.Core\Blog.Core.Common\DB\BaseDBConfig.cs,DifDBConnOfSecurity
+Blog.Core,Empty Catch Block,Blog.Core.Common.Helper,IpHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\IpHelper.cs,GetCurrentIp
+Blog.Core,Empty Catch Block,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,JSON
+Blog.Core,Empty Catch Block,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,JSON1
+Blog.Core,Empty Catch Block,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,GetRequestInfo
+Blog.Core,Empty Catch Block,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,GetLogData
+Blog.Core,Empty Catch Block,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,GetLogData
+Blog.Core,Empty Catch Block,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,GetLogData
+Blog.Core,Empty Catch Block,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,GetLogData
+Blog.Core,Empty Catch Block,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,RequestApiinfoByWeek
+Blog.Core,Empty Catch Block,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,AccessApiByDate
+Blog.Core,Empty Catch Block,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,AccessApiByHour
+Blog.Core,Magic Number,Blog.Core.Common,CCBPayUtil,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,makeCCBParam
+Blog.Core,Magic Number,Blog.Core.Common,CCBPayUtil,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,makeCCBParam
+Blog.Core,Magic Number,Blog.Core.Common,CCBPayUtil,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,makeCCBParam
+Blog.Core,Magic Number,Blog.Core.Common,CCBPayUtil,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,makeCCBParam
+Blog.Core,Magic Number,Blog.Core.Common,RSASign,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,hexStrToBytes
+Blog.Core,Magic Number,Blog.Core.Common,RSASign,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,hexStrToBytes
+Blog.Core,Magic Number,Blog.Core.Common,RSASign,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,hexStrToBytes
+Blog.Core,Magic Number,Blog.Core.Common,RSASign,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,hexStrToBytes
+Blog.Core,Magic Number,Blog.Core.Common,RSASign,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,hexStrToBytes
+Blog.Core,Magic Number,Blog.Core.Common,DES_ENCRY_DECRY,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,doEncrypt
+Blog.Core,Magic Number,Blog.Core.Common,DES_ENCRY_DECRY,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,doEncrypt
+Blog.Core,Magic Number,Blog.Core.Common,DES_ENCRY_DECRY,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,doDecrypt
+Blog.Core,Magic Number,Blog.Core.Common,DES_ENCRY_DECRY,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,doDecrypt
+Blog.Core,Magic Number,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetPublicKeyBlobFromRSA
+Blog.Core,Magic Number,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetPublicKeyBlobFromRSA
+Blog.Core,Magic Number,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetPublicKeyBlobFromRSA
+Blog.Core,Magic Number,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetPublicKeyBlobFromRSA
+Blog.Core,Magic Number,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetRSAFromDER
+Blog.Core,Magic Number,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetRSAFromDER
+Blog.Core,Magic Number,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetRSAFromDER
+Blog.Core,Magic Number,Blog.Core.Common,RSACryptoServiceProviderExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\CCBPayUtil.cs,GetRSAFromDER
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,init
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,init
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetEncoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,sixbit2char
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Encoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,sixbit2char
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,init
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,init
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,init
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,GetDecoded
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Base64Decoder,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base64Encoder.cs,char2sixbit
+Blog.Core,Magic Number,Blog.Core.Common.Helper,DateHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\DateHelper.cs,StampToDateTime
+Blog.Core,Magic Number,Blog.Core.Common.Helper,DateHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\DateHelper.cs,StampToDateTime
+Blog.Core,Magic Number,Blog.Core.Common.Helper,DynamicLinqFactory,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\DynamicLinqFactory.cs,FormatString
+Blog.Core,Magic Number,Blog.Core.Common.Helper,HttpHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\HttpHelper.cs,GetAsync
+Blog.Core,Magic Number,Blog.Core.Common.Helper,HttpHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\HttpHelper.cs,PostAsync
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,JsonHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\JsonHelper.cs,SetCharState
+Blog.Core,Magic Number,Blog.Core.Common.Helper,MD5Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\MD5Hepler.cs,MD5Encrypt16
+Blog.Core,Magic Number,Blog.Core.Common.Helper,MD5Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\MD5Hepler.cs,MD5Encrypt16
+Blog.Core,Magic Number,Blog.Core.Common.Helper,RSAHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelper.cs,Decrypt
+Blog.Core,Magic Number,Blog.Core.Common.Helper,RSAHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelper.cs,Encrypt
+Blog.Core,Magic Number,Blog.Core.Common.Helper,RSAHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelper.cs,Encrypt
+Blog.Core,Magic Number,Blog.Core.Common.Helper,RSAHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelper.cs,CreateRsaProviderFromPublicKey
+Blog.Core,Magic Number,Blog.Core.Common.Helper,RSAHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelper.cs,CreateRsaProviderFromPublicKey
+Blog.Core,Magic Number,Blog.Core.Common.Helper,RSAHelperExtend,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelperExtend.cs,CreateKey
+Blog.Core,Magic Number,Blog.Core.Common.Helper,RSAHelperExtend,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelperExtend.cs,PrivateKeyEncrypt
+Blog.Core,Magic Number,Blog.Core.Common.Helper,RSAHelperExtend,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelperExtend.cs,PrivateKeyEncrypt
+Blog.Core,Magic Number,Blog.Core.Common.Helper,RSAHelperExtend,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\RSAHelperExtend.cs,PublicKeyDecrypt
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha224
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha384
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512_224
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,CreateMessageScheduleSha1
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,CreateMessageScheduleSha1
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,CreateMessageScheduleSha1
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,CreateMessageScheduleSha256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,CreateMessageScheduleSha256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,CreateMessageScheduleSha256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,CreateMessageScheduleSha512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,CreateMessageScheduleSha512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,CreateMessageScheduleSha512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha1Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha1Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha1Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha1Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha1Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha1Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha1Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha1Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha1Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha1Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha256Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sha512Algorithm
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText1024
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText1024
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText1024
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText1024
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText1024
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText1024
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText1024
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText1024
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,PadPlainText1024
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ConvertPaddedTextToBlock512Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ConvertPaddedTextToBlock512Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ConvertPaddedTextToBlock512Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ConvertPaddedTextToBlock512Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ConvertPaddedTextToBlock512Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ConvertPaddedMessageToBlock1024Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ConvertPaddedMessageToBlock1024Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ConvertPaddedMessageToBlock1024Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ConvertPaddedMessageToBlock1024Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ConvertPaddedMessageToBlock1024Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,RotR
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,RotR
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,RotL
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,f
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma0_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma0_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma0_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma1_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma1_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma1_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,sigma0_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,sigma0_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,sigma0_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,sigma1_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,sigma1_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,sigma1_256
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma0_512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma0_512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma0_512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma1_512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma1_512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Sigma1_512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,sigma0_512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,sigma0_512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,sigma1_512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,sigma1_512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,sigma1_512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,DefineK1
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,DefineK1
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,DefineK1
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Block512,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Block512
+Blog.Core,Magic Number,Blog.Core.Common.Helper,Block1024,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,Block1024
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteArrayToWord32
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteArrayToWord32
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteArrayToWord64
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteArrayToWord64
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteArrayToWord32Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteArrayToWord32Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteArrayToWord64Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteArrayToWord64Array
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteToBinaryString
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteToBinaryString
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteToBinaryString
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteToBinaryString
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteToBinaryString
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteToHexString
+Blog.Core,Magic Number,Blog.Core.Common.Helper,ShaUtilities,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\ShaHelper.cs,ByteToHexString
+Blog.Core,Magic Number,Blog.Core.Common.Helper,UnicodeHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\UnicodeHelper.cs,StringToUnicode
+Blog.Core,Magic Number,Blog.Core.Common.Helper,UnicodeHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\UnicodeHelper.cs,StringToUnicode
+Blog.Core,Magic Number,Blog.Core.Common.Helper,UnicodeHelper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\UnicodeHelper.cs,UnicodeToString
+Blog.Core,Magic Number,Blog.Core,UtilConvert,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\UtilConvert.cs,DateToTimeStamp
+Blog.Core,Magic Number,Blog.Core,UtilConvert,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\UtilConvert.cs,ChangeTypeList
+Blog.Core,Magic Number,Blog.Core,UtilConvert,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\UtilConvert.cs,ChangeTypeList
+Blog.Core,Magic Number,Blog.Core,UtilConvert,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\UtilConvert.cs,ChangeTypeList
+Blog.Core,Magic Number,Blog.Core,UtilConvert,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\UtilConvert.cs,ChangeTypeList
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,ToString
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,ToString
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,ToString
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,ToString
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,ToString
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,ToString
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,FromBase32String
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,FromBase32String
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,FromBase32String
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,FromBase32String
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,FromBase32String
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,FromBase32String
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,FromBase32String
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,FromBase32String
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,FromBase32String
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,FromBase32String
+Blog.Core,Magic Number,DPE.Core.Common.Helper,Base32Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Base32Helper.cs,FromBase32String
+Blog.Core,Magic Number,System,TableExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Console\Table\TableExtension.cs,GetTitleStr
+Blog.Core,Magic Number,System,TableExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Console\Table\TableExtension.cs,GetTitleStr
+Blog.Core,Magic Number,System,TableExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Console\Table\TableExtension.cs,GetDivider
+Blog.Core,Magic Number,System,TableExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Console\Table\TableExtension.cs,GetTopAndDwon
+Blog.Core,Magic Number,System,TableExtension,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\Console\Table\TableExtension.cs,GetTopAndDwon
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,GET_ULONG_BE
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,GET_ULONG_BE
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,GET_ULONG_BE
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,GET_ULONG_BE
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,GET_ULONG_BE
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,PUT_ULONG_BE
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,PUT_ULONG_BE
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,PUT_ULONG_BE
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,PUT_ULONG_BE
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,PUT_ULONG_BE
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,ROTL
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,SWAP
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,SWAP
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4Lt
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4Lt
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4Lt
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4Lt
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4Lt
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4Lt
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4Lt
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4Lt
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4Lt
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4Lt
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4CalciRK
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4CalciRK
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4CalciRK
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4CalciRK
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4CalciRK
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4CalciRK
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4CalciRK
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4CalciRK
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_one_round
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,padding
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,padding
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_setkey_dec
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_ecb
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_ecb
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_ecb
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_ecb
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_ecb
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_ecb
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_ecb
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_ecb
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_cbc
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_cbc
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_cbc
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_cbc
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_cbc
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_cbc
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_cbc
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_cbc
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4.cs,sm4_crypt_cbc
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4Helper.cs,Byte2SByte
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4Helper,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4Helper.cs,Byte2SByte
+Blog.Core,Magic Number,Blog.Core.Common.Helper.SM,SM4_Context,DesigniteProjects\Blog.Core\Blog.Core.Common\Helper\SM\SM4_Context.cs,SM4_Context
+Blog.Core,Magic Number,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,GetLogData
+Blog.Core,Magic Number,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,GetLogData
+Blog.Core,Magic Number,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,RequestApiinfoByWeek
+Blog.Core,Magic Number,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,AccessApiByDate
+Blog.Core,Magic Number,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,AccessApiByHour
+Blog.Core,Missing Default,Blog.Core.Common.LogHelper,LogLock,DesigniteProjects\Blog.Core\Blog.Core.Common\LogHelper\LogLock.cs,OutSql2LogToFile
+Blog.Core,Complex Method,Blog.Core.Tasks,SchedulerCenterServer,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\SchedulerCenterServer.cs,AddScheduleJobAsync
+Blog.Core,Complex Method,Blog.Core.Tasks,SchedulerCenterServer,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\SchedulerCenterServer.cs,GetTriggerState
+Blog.Core,Long Parameter List,Blog.Core.Tasks,Job_Blogs_Quartz,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\Jobs\Job_Blogs_Quartz.cs,Job_Blogs_Quartz
+Blog.Core,Long Statement,Blog.Core.Tasks,JobBase,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\Jobs\JobBase.cs,ExecuteJob
+Blog.Core,Long Statement,Blog.Core.Tasks,Job_AccessTrendLog_Quartz,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\Jobs\Job_AccessTrendLog_Quartz.cs,Run
+Blog.Core,Long Statement,Blog.Core.Tasks,Job_AccessTrendLog_Quartz,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\Jobs\Job_AccessTrendLog_Quartz.cs,Run
+Blog.Core,Long Statement,Blog.Core.Tasks,Job_OperateLog_Quartz,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\Jobs\Job_OperateLog_Quartz.cs,Run
+Blog.Core,Empty Catch Block,Blog.Core.Tasks,Job_AccessTrendLog_Quartz,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\Jobs\Job_AccessTrendLog_Quartz.cs,GetAccessLogs
+Blog.Core,Magic Number,Blog.Core.Tasks,Job1TimedService,DesigniteProjects\Blog.Core\Blog.Core.Tasks\HostedService\Job1TimedService.cs,StartAsync
+Blog.Core,Magic Number,Blog.Core.Tasks,Job1TimedService,DesigniteProjects\Blog.Core\Blog.Core.Tasks\HostedService\Job1TimedService.cs,StartAsync
+Blog.Core,Magic Number,Blog.Core.Tasks,Job2TimedService,DesigniteProjects\Blog.Core\Blog.Core.Tasks\HostedService\Job2TimedService.cs,StartAsync
+Blog.Core,Magic Number,Blog.Core.Tasks,Job2TimedService,DesigniteProjects\Blog.Core\Blog.Core.Tasks\HostedService\Job2TimedService.cs,StartAsync
+Blog.Core,Magic Number,Blog.Core.Tasks,Job2TimedService,DesigniteProjects\Blog.Core\Blog.Core.Tasks\HostedService\Job2TimedService.cs,StartAsync
+Blog.Core,Magic Number,Blog.Core.Tasks,Job_AccessTrendLog_Quartz,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\Jobs\Job_AccessTrendLog_Quartz.cs,Run
+Blog.Core,Magic Number,Blog.Core.Tasks,Job_AccessTrendLog_Quartz,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\Jobs\Job_AccessTrendLog_Quartz.cs,GetAccessLogs
+Blog.Core,Magic Number,Blog.Core.Tasks,Job_OperateLog_Quartz,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\Jobs\Job_OperateLog_Quartz.cs,Run
+Blog.Core,Missing Default,Blog.Core.Tasks,SchedulerCenterServer,DesigniteProjects\Blog.Core\Blog.Core.Tasks\QuartzNet\SchedulerCenterServer.cs,GetTriggerState
+Blog.Core,Long Method,Blog.Core.AOP,BlogLogAOP,DesigniteProjects\Blog.Core\Blog.Core.Extensions\AOP\BlogLogAOP.cs,Intercept
+Blog.Core,Long Method,Blog.Core.AuthHelper,PermissionHandler,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Authorizations\Policys\PermissionHandler.cs,HandleRequirementAsync
+Blog.Core,Complex Method,Blog.Core.AOP,BlogUserAuditAOP,DesigniteProjects\Blog.Core\Blog.Core.Extensions\AOP\BlogUserAuditAOP.cs,Intercept
+Blog.Core,Complex Method,Blog.Core.AOP,CacheAOPbase,DesigniteProjects\Blog.Core\Blog.Core.Extensions\AOP\CacheAOPbase.cs,GetOperator
+Blog.Core,Complex Method,Blog.Core.AuthHelper,PermissionHandler,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Authorizations\Policys\PermissionHandler.cs,HandleRequirementAsync
+Blog.Core,Complex Method,Blog.Core.Extensions.Middlewares,IpLogMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\IpLogMiddleware.cs,GetWeek
+Blog.Core,Long Parameter List,Blog.Core.AuthHelper,ApiResponseHandler,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Authorizations\Policys\ApiResponseHandler.cs,ApiResponseHandler
+Blog.Core,Long Parameter List,Blog.Core.AuthHelper,PermissionHandler,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Authorizations\Policys\PermissionHandler.cs,PermissionHandler
+Blog.Core,Long Parameter List,Blog.Core.AuthHelper,PermissionRequirement,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Authorizations\Policys\PermissionRequirement.cs,PermissionRequirement
+Blog.Core,Long Statement,Blog.Core.AOP,BlogLogAOP,DesigniteProjects\Blog.Core\Blog.Core.Extensions\AOP\BlogLogAOP.cs,Intercept
+Blog.Core,Long Statement,Blog.Core.AOP,BlogLogAOP,DesigniteProjects\Blog.Core\Blog.Core.Extensions\AOP\BlogLogAOP.cs,LogEx
+Blog.Core,Long Statement,Blog.Core.AuthHelper.OverWrite,JwtHelper,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Authorizations\Helpers\JwtHelper.cs,customSafeVerify
+Blog.Core,Long Statement,Blog.Core.EventBus,BlogQueryIntegrationEventHandler,DesigniteProjects\Blog.Core\Blog.Core.Extensions\EventHandling\BlogQueryIntegrationEventHandler.cs,Handle
+Blog.Core,Long Statement,Blog.Core.Extensions,EncryptionResponseMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\EncryptionResponseMiddleware.cs,InvokeAsync
+Blog.Core,Long Statement,Blog.Core.Extensions,Authentication_AuthingSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\Authentication_AuthingSetup.cs,AddAuthentication_AuthingSetup
+Blog.Core,Long Statement,Blog.Core.Extensions,EventBusSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\EventBusSetup.cs,AddEventBusSetup
+Blog.Core,Long Statement,Blog.Core.Extensions,JobSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\JobSetup.cs,AddJobSetup
+Blog.Core,Long Statement,Blog.Core.Extensions,SwaggerSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\SwaggerSetup.cs,AddSwaggerSetup
+Blog.Core,Long Statement,Blog.Core.Extensions.Middlewares,AllServicesMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\AllServicesMiddleware.cs,UseAllServicesMiddle
+Blog.Core,Long Statement,Blog.Core.Extensions.Middlewares,AllServicesMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\AllServicesMiddleware.cs,UseAllServicesMiddle
+Blog.Core,Long Statement,Blog.Core.Extensions.Middlewares,AllServicesMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\AllServicesMiddleware.cs,UseAllServicesMiddle
+Blog.Core,Long Statement,Blog.Core.Extensions.Middlewares,AllServicesMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\AllServicesMiddleware.cs,UseAllServicesMiddle
+Blog.Core,Long Statement,Blog.Core.Extensions.Middlewares,AllServicesMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\AllServicesMiddleware.cs,UseAllServicesMiddle
+Blog.Core,Long Statement,Blog.Core.Extensions.Middlewares,IpLogMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\IpLogMiddleware.cs,InvokeAsync
+Blog.Core,Long Statement,Blog.Core.Extensions.Middlewares,RecordAccessLogsMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\RecordAccessLogsMiddleware.cs,InvokeAsync
+Blog.Core,Long Statement,Blog.Core.Extensions.Middlewares,SwaggerMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\SwaggerMiddleware.cs,UseSwaggerMiddle
+Blog.Core,Long Statement,Blog.Core.Extensions.Middlewares,SwaggerMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\SwaggerMiddleware.cs,UseSwaggerMiddle
+Blog.Core,Long Statement,Blog.Core.Extensions.NacosConfig,NacosListenNamingTask,DesigniteProjects\Blog.Core\Blog.Core.Extensions\NacosConfig\NacosListenNamingTask.cs,ExecuteAsync
+Blog.Core,Long Statement,Blog.Core.Extensions.NacosConfig,NacosListenNamingTask,DesigniteProjects\Blog.Core\Blog.Core.Extensions\NacosConfig\NacosListenNamingTask.cs,ExecuteAsync
+Blog.Core,Long Statement,Blog.Core.Extensions.NacosConfig,NacosListenNamingTask,DesigniteProjects\Blog.Core\Blog.Core.Extensions\NacosConfig\NacosListenNamingTask.cs,StopAsync
+Blog.Core,Long Statement,Blog.Core.Extensions.NacosConfig,NacosListenNamingTask,DesigniteProjects\Blog.Core\Blog.Core.Extensions\NacosConfig\NacosListenNamingTask.cs,StopAsync
+Blog.Core,Empty Catch Block,Blog.Core.AuthHelper,PermissionHandler,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Authorizations\Policys\PermissionHandler.cs,HandleRequirementAsync
+Blog.Core,Empty Catch Block,Blog.Core.Extensions.NacosConfig,NacosListenConfigurationTask,DesigniteProjects\Blog.Core\Blog.Core.Extensions\NacosConfig\NacosListenConfigurationTask.cs,ExecuteAsync
+Blog.Core,Magic Number,Blog.Core.AOP,CacheAOPbase,DesigniteProjects\Blog.Core\Blog.Core.Extensions\AOP\CacheAOPbase.cs,CustomCacheKey
+Blog.Core,Magic Number,Blog.Core.AuthHelper.OverWrite,JwtHelper,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Authorizations\Helpers\JwtHelper.cs,IssueJwt
+Blog.Core,Magic Number,Blog.Core.AuthHelper.OverWrite,JwtHelper,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Authorizations\Helpers\JwtHelper.cs,IssueJwt
+Blog.Core,Magic Number,Blog.Core.Extensions,Job1TimedService,DesigniteProjects\Blog.Core\Blog.Core.Extensions\HostedService\Job1TimedService.cs,StartAsync
+Blog.Core,Magic Number,Blog.Core.Extensions,Job1TimedService,DesigniteProjects\Blog.Core\Blog.Core.Extensions\HostedService\Job1TimedService.cs,StartAsync
+Blog.Core,Magic Number,Blog.Core.Extensions,Job2TimedService,DesigniteProjects\Blog.Core\Blog.Core.Extensions\HostedService\Job2TimedService.cs,StartAsync
+Blog.Core,Magic Number,Blog.Core.Extensions,Job2TimedService,DesigniteProjects\Blog.Core\Blog.Core.Extensions\HostedService\Job2TimedService.cs,StartAsync
+Blog.Core,Magic Number,Blog.Core.Extensions,Job2TimedService,DesigniteProjects\Blog.Core\Blog.Core.Extensions\HostedService\Job2TimedService.cs,StartAsync
+Blog.Core,Magic Number,Blog.Core.Extensions,EncryptionRequestMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\EncryptionRequestMiddleware.cs,InvokeAsync
+Blog.Core,Magic Number,Blog.Core.Extensions,EncryptionResponseMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\EncryptionResponseMiddleware.cs,InvokeAsync
+Blog.Core,Magic Number,Blog.Core.Extensions,AppConfigSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\AppConfigSetup.cs,AddAppTableConfigSetup
+Blog.Core,Magic Number,Blog.Core.Extensions,AppConfigSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\AppConfigSetup.cs,AddAppTableConfigSetup
+Blog.Core,Magic Number,Blog.Core.Extensions,AppConfigSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\AppConfigSetup.cs,AddAppTableConfigSetup
+Blog.Core,Magic Number,Blog.Core.Extensions,Authentication_JWTSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\Authentication_JWTSetup.cs,AddAuthentication_JWTSetup
+Blog.Core,Magic Number,Blog.Core.Extensions,AuthorizationSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\AuthorizationSetup.cs,AddAuthorizationSetup
+Blog.Core,Magic Number,Blog.Core.Extensions,AuthorizationSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\AuthorizationSetup.cs,AddAuthorizationSetup
+Blog.Core,Magic Number,Blog.Core.Extensions,EventBusSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\EventBusSetup.cs,AddEventBusSetup
+Blog.Core,Magic Number,Blog.Core.Extensions,HttpPollySetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\HttpPollySetup.cs,AddHttpPollySetup
+Blog.Core,Magic Number,Blog.Core.Extensions,HttpPollySetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\HttpPollySetup.cs,AddHttpPollySetup
+Blog.Core,Magic Number,Blog.Core.Extensions,HttpPollySetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\HttpPollySetup.cs,AddHttpPollySetup
+Blog.Core,Magic Number,Blog.Core.Extensions,MiniProfilerSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\MiniProfilerSetup.cs,AddMiniProfilerSetup
+Blog.Core,Magic Number,Blog.Core.Extensions,RabbitMQSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\RabbitMQSetup.cs,AddRabbitMQSetup
+Blog.Core,Magic Number,Blog.Core.Extensions,RedisInitMqSetup,DesigniteProjects\Blog.Core\Blog.Core.Extensions\ServiceExtensions\RedisInitMqSetup.cs,AddRedisInitMqSetup
+Blog.Core,Magic Number,Blog.Core.Extensions.Middlewares,JwtTokenAuthMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Extensions\Middlewares\JwtTokenAuthMiddleware.cs,Invoke
+Blog.Core,Magic Number,Blog.Core.Extensions.NacosConfig,NacosListenNamingTask,DesigniteProjects\Blog.Core\Blog.Core.Extensions\NacosConfig\NacosListenNamingTask.cs,ExecuteAsync
+Blog.Core,Long Parameter List,Blog.Core.EventBus,EventBusRabbitMQ,DesigniteProjects\Blog.Core\Blog.Core.EventBus\RabbitMQPersistent\EventBusRabbitMQ.cs,EventBusRabbitMQ
+Blog.Core,Long Statement,Blog.Core.EventBus,EventBusKafka,DesigniteProjects\Blog.Core\Blog.Core.EventBus\EventBusKafka\EventBusKafka.cs,Publish
+Blog.Core,Long Statement,Blog.Core.EventBus,EventBusKafka,DesigniteProjects\Blog.Core\Blog.Core.EventBus\EventBusKafka\EventBusKafka.cs,SubscribeDynamic
+Blog.Core,Long Statement,Blog.Core.EventBus,EventBusKafka,DesigniteProjects\Blog.Core\Blog.Core.EventBus\EventBusKafka\EventBusKafka.cs,Subscribe
+Blog.Core,Long Statement,Blog.Core.EventBus,EventBusRabbitMQ,DesigniteProjects\Blog.Core\Blog.Core.EventBus\RabbitMQPersistent\EventBusRabbitMQ.cs,Publish
+Blog.Core,Long Statement,Blog.Core.EventBus,EventBusRabbitMQ,DesigniteProjects\Blog.Core\Blog.Core.EventBus\RabbitMQPersistent\EventBusRabbitMQ.cs,SubscribeDynamic
+Blog.Core,Long Statement,Blog.Core.EventBus,EventBusRabbitMQ,DesigniteProjects\Blog.Core\Blog.Core.EventBus\RabbitMQPersistent\EventBusRabbitMQ.cs,Subscribe
+Blog.Core,Long Statement,Blog.Core.EventBus,RabbitMQPersistentConnection,DesigniteProjects\Blog.Core\Blog.Core.EventBus\RabbitMQPersistent\RabbitMQPersistentConnection.cs,TryConnect
+Blog.Core,Long Statement,Blog.Core.EventBus,RabbitMQPersistentConnection,DesigniteProjects\Blog.Core\Blog.Core.EventBus\RabbitMQPersistent\RabbitMQPersistentConnection.cs,TryConnect
+Blog.Core,Empty Catch Block,Blog.Core.EventBus,KafkaConsumerHostService,DesigniteProjects\Blog.Core\Blog.Core.EventBus\EventBusKafka\KafkaConsumerHostService.cs,FetchTopicAsync
+Blog.Core,Magic Number,Blog.Core.EventBus,KafkaConnectionPool,DesigniteProjects\Blog.Core\Blog.Core.EventBus\EventBusKafka\KafkaConnectionPool.cs,Producer
+Blog.Core,Magic Number,Blog.Core.EventBus,KafkaConnectionPool,DesigniteProjects\Blog.Core\Blog.Core.EventBus\EventBusKafka\KafkaConnectionPool.cs,Producer
+Blog.Core,Magic Number,Blog.Core.EventBus,KafkaConnectionPool,DesigniteProjects\Blog.Core\Blog.Core.EventBus\EventBusKafka\KafkaConnectionPool.cs,Producer
+Blog.Core,Magic Number,Blog.Core.EventBus,EventBusRabbitMQ,DesigniteProjects\Blog.Core\Blog.Core.EventBus\RabbitMQPersistent\EventBusRabbitMQ.cs,Publish
+Blog.Core,Magic Number,Blog.Core.EventBus,EventBusRabbitMQ,DesigniteProjects\Blog.Core\Blog.Core.EventBus\RabbitMQPersistent\EventBusRabbitMQ.cs,Publish
+Blog.Core,Magic Number,Blog.Core.EventBus,RabbitMQPersistentConnection,DesigniteProjects\Blog.Core\Blog.Core.EventBus\RabbitMQPersistent\RabbitMQPersistentConnection.cs,TryConnect
+Blog.Core,Complex Method,Blog.Core.AuthHelper,CustomJwtTokenAuthMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Gateway\Helper\CustomJwtTokenAuthMiddleware.cs,Invoke
+Blog.Core,Long Statement,Blog.Core.Gateway.Extensions,CustomResultHandler,DesigniteProjects\Blog.Core\Blog.Core.Gateway\Extensions\CustomResultHandler.cs,SendAsync
+Blog.Core,Long Statement,Blog.Core.Gateway.Extensions,CustomResultHandler,DesigniteProjects\Blog.Core\Blog.Core.Gateway\Extensions\CustomResultHandler.cs,SendAsync
+Blog.Core,Long Statement,Blog.Core.AuthHelper,CustomJwtTokenAuthMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Gateway\Helper\CustomJwtTokenAuthMiddleware.cs,CheckWhiteList
+Blog.Core,Long Statement,Blog.Core.AuthHelper,CustomJwtTokenAuthMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Gateway\Helper\CustomJwtTokenAuthMiddleware.cs,CheckBlackList
+Blog.Core,Long Statement,Blog.Core.AdminMvc,Startup,DesigniteProjects\Blog.Core\Blog.Core.Gateway\Startup.cs,Configure
+Blog.Core,Empty Catch Block,Blog.Core.AuthHelper,CustomJwtTokenAuthMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Gateway\Helper\CustomJwtTokenAuthMiddleware.cs,Invoke
+Blog.Core,Magic Number,Blog.Core.Gateway.Extensions,CustomResultHandler,DesigniteProjects\Blog.Core\Blog.Core.Gateway\Extensions\CustomResultHandler.cs,SendAsync
+Blog.Core,Magic Number,Blog.Core.AuthHelper,CustomJwtTokenAuthMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Gateway\Helper\CustomJwtTokenAuthMiddleware.cs,CheckWhiteList
+Blog.Core,Magic Number,Blog.Core.AuthHelper,CustomJwtTokenAuthMiddleware,DesigniteProjects\Blog.Core\Blog.Core.Gateway\Helper\CustomJwtTokenAuthMiddleware.cs,CheckBlackList
+Blog.Core,Complex Method,Blog.Core.Serilog.Es.Formatters,LogstashJsonFormatter,DesigniteProjects\Blog.Core\Blog.Core.Serilog.Es\Formatters\LogstashJsonFormatter.cs,FormatContent
+Blog.Core,Long Statement,Blog.Core.Serilog.Es,NetworkLoggerConfigurationExtensions,DesigniteProjects\Blog.Core\Blog.Core.Serilog.Es\NetworkLoggerConfigurationExtensions.cs,GetTcpAddress
+Blog.Core,Long Statement,Blog.Core.Serilog.Es,NetworkLoggerConfigurationExtensions,DesigniteProjects\Blog.Core\Blog.Core.Serilog.Es\NetworkLoggerConfigurationExtensions.cs,TCPSink
+Blog.Core,Long Statement,Blog.Core.Serilog.Es.Formatters,LogstashJsonFormatter,DesigniteProjects\Blog.Core\Blog.Core.Serilog.Es\Formatters\LogstashJsonFormatter.cs,FormatContent
+Blog.Core,Long Statement,Blog.Core.Serilog.Es.Formatters,LogstashJsonFormatter,DesigniteProjects\Blog.Core\Blog.Core.Serilog.Es\Formatters\LogstashJsonFormatter.cs,FormatContent
+Blog.Core,Empty Catch Block,Blog.Core.Serilog.Es.Sinks.TCP,ExponentialBackoffTcpReconnectionPolicy,DesigniteProjects\Blog.Core\Blog.Core.Serilog.Es\Sinks\TCP\TCPSocketWriter.cs,ConnectAsync
+Blog.Core,Magic Number,Blog.Core.Serilog.Es.Sinks.TCP,TcpSocketWriter,DesigniteProjects\Blog.Core\Blog.Core.Serilog.Es\Sinks\TCP\TCPSocketWriter.cs,TcpSocketWriter
+Blog.Core,Magic Number,Blog.Core.Serilog.Es.Sinks.TCP,ExponentialBackoffTcpReconnectionPolicy,DesigniteProjects\Blog.Core\Blog.Core.Serilog.Es\Sinks\TCP\TCPSocketWriter.cs,ConnectAsync
+Blog.Core,Magic Number,Blog.Core.Serilog.Es.Sinks.TCP,ExponentialBackoffTcpReconnectionPolicy,DesigniteProjects\Blog.Core\Blog.Core.Serilog.Es\Sinks\TCP\TCPSocketWriter.cs,ConnectAsync
+Blog.Core,Complex Method,Ocelot.Provider.Nacos.NacosClient,UriTool,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosClient\UriTool.cs,GetUri
+Blog.Core,Long Statement,Ocelot.Provider.Nacos,Nacos,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\Nacos.cs,Get
+Blog.Core,Long Statement,Ocelot.Provider.Nacos,NacosMiddlewareConfigurationProvider,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosMiddlewareConfigurationProvider.cs,UsingNacosServiceDiscoveryProvider
+Blog.Core,Long Statement,Ocelot.Provider.Nacos.NacosClient,WeightRandomLBStrategy,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosClient\LoadBalance\WeightRandomLBStrategy.cs,BuildScore
+Blog.Core,Long Statement,Ocelot.Provider.Nacos.NacosClient,WeightRoundRobinLBStrategy,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosClient\LoadBalance\WeightRoundRobinLBStrategy.cs,GetHost
+Blog.Core,Long Statement,Ocelot.Provider.Nacos.NacosClient,UriTool,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosClient\UriTool.cs,GetCurrentIp
+Blog.Core,Empty Catch Block,Ocelot.Provider.Nacos.NacosClient,UriTool,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosClient\UriTool.cs,GetCurrentIp
+Blog.Core,Magic Number,Ocelot.Provider.Nacos.NacosClient,WeightRandomLBStrategy,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosClient\LoadBalance\WeightRandomLBStrategy.cs,GetHost
+Blog.Core,Magic Number,Ocelot.Provider.Nacos.NacosClient,WeightRoundRobinLBStrategy,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosClient\LoadBalance\WeightRoundRobinLBStrategy.cs,GetHost
+Blog.Core,Magic Number,Ocelot.Provider.Nacos.NacosClient,UriTool,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosClient\UriTool.cs,GetUri
+Blog.Core,Magic Number,Ocelot.Provider.Nacos.NacosClient,UriTool,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosClient\UriTool.cs,GetUri
+Blog.Core,Magic Number,Ocelot.Provider.Nacos.NacosClient.V2,RegSvcBgTask,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosClient\V2\RegSvcBgTask.cs,StartAsync
+Blog.Core,Magic Number,Ocelot.Provider.Nacos.NacosClient.V2,RegSvcBgTask,DesigniteProjects\Blog.Core\Ocelot.Provider.Nacos\NacosClient\V2\RegSvcBgTask.cs,StopAsync

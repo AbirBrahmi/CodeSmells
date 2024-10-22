@@ -1,0 +1,32 @@
+Smell,% in projects,% in smelly files/modules,% of total smells
+Magic Number,100.0,20.28,57.07
+Long Statement,80.0,23.65,12.88
+Unnecessary Abstraction,60.0,30.12,5.11
+Unutilized Abstraction,100.0,29.85,4.89
+Cyclically-dependent Modularization,60.0,9.12,2.6
+Broken Modularization,60.0,14.7,2.56
+Complex Method,60.0,7.62,2.26
+Long Parameter List,60.0,8.95,2.21
+Duplicate Abstraction,80.0,6.38,1.7
+Feature Envy,60.0,6.02,1.45
+Rebellious Hierarchy,60.0,5.76,0.96
+Long Method,60.0,4.43,0.91
+Long Identifier,60.0,2.39,0.84
+Empty Catch Block,40.0,2.75,0.74
+Deficient Encapsulation,60.0,2.75,0.73
+Missing Default,60.0,2.66,0.65
+Insufficient Modularization,60.0,2.3,0.6
+Complex Conditional,60.0,1.59,0.41
+Duplicate Code,20.0,0.35,0.39
+Broken Hierarchy,60.0,2.04,0.32
+Unfactored Hierarchy,40.0,1.33,0.29
+Cyclic Hierarchy,40.0,0.27,0.13
+Wide Hierarchy,60.0,0.8,0.13
+Multipath Hierarchy,20.0,0.62,0.1
+Virtual Method Call from Constructor,20.0,0.35,0.06
+Hub-like Modularization,20.0,0.09,0.01
+Imperative Abstraction,0.0,0.0,0.0
+Multifaceted Abstraction,0.0,0.0,0.0
+Unexploited Encapsulation,0.0,0.0,0.0
+Deep Hierarchy,0.0,0.0,0.0
+Missing Hierarchy,0.0,0.0,0.0
