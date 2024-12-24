@@ -1,0 +1,11 @@
+Project,Broken Hierarchy,Broken Modularization,Complex Conditional,Complex Method,Cyclic Hierarchy,Cyclically-dependent Modularization,Deficient Encapsulation,Duplicate Abstraction,Duplicate Code,Empty Catch Block,Feature Envy,Hub-like Modularization,Imperative Abstraction,Insufficient Modularization,Long Identifier,Long Method,Long Parameter List,Long Statement,Magic Number,Missing Default,Missing Hierarchy,Multifaceted Abstraction,Multipath Hierarchy,Rebellious Hierarchy,Unexploited Encapsulation,Unfactored Hierarchy,Unnecessary Abstraction,Unutilized Abstraction,Virtual Method Call from Constructor,Wide Hierarchy
+Blog.Core,15,58,5,30,0,1,27,25,0,26,4,0,0,12,0,10,53,171,453,3,0,0,0,5,0,1,109,141,0,2
+NETworkManager,0,0,0,0,0,0,0,10,0,0,0,0,0,0,3,0,0,8,5,3,0,0,0,0,0,0,0,9,0,0
+PixiEditor,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,7,0,0
+Seal-Report,20,24,111,332,9,379,225,27,2,57,28,11,1,100,63,77,174,1797,2529,13,30,7,3,16,103,24,77,52,4,5
+Terminal.Gui,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,4,0,0
+boletonet,8,8,22,163,5,171,2,67,17,0,1,1,0,47,15,51,101,1554,8127,92,0,0,71,61,0,114,13,15,0,6
+drywetmidi,20,24,7,46,1,283,0,82,0,0,7,5,1,29,47,2,162,165,249,82,0,1,1,17,11,28,69,57,5,6
+fo-dicom,23,1,13,89,14,168,16,39,2,25,5,5,1,17,2160,16,60,453,1049,9,1,1,1,95,9,28,16,49,0,8
+greenshot,11,35,25,121,9,223,67,62,0,33,25,3,1,29,44,39,80,462,2523,37,0,1,10,18,0,16,94,31,2,9
+mpv.net,0,15,0,1,0,9,19,10,0,0,0,0,0,2,3,1,13,24,55,9,0,0,0,3,0,0,12,28,0,0

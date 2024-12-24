@@ -1,5 +1,0 @@
-Project,Design smell,Namespace,Class,File,
-Terminal.Gui,Unutilized Abstraction,Terminal.Gui.Resources,Strings,DesigniteProjects\Terminal.Gui\Terminal.Gui\Resources\Strings.Designer.cs,
-Terminal.Gui,Unutilized Abstraction,TextValidateProviders,NetMaskedTextProvider,DesigniteProjects\Terminal.Gui\Terminal.Gui\Views\TextValidateField.cs,
-Terminal.Gui,Unutilized Abstraction,TextValidateProviders,TextRegexProvider,DesigniteProjects\Terminal.Gui\Terminal.Gui\Views\TextValidateField.cs,
-Terminal.Gui,Unutilized Abstraction,Terminal.Gui,TextValidateField,DesigniteProjects\Terminal.Gui\Terminal.Gui\Views\TextValidateField.cs,

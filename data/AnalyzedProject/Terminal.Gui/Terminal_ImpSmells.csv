@@ -1,4 +1,0 @@
-Project,Implementation smell,Namespace,Class,File,Method,
-Terminal.Gui,Magic Number,Terminal.Gui,TextValidateField,DesigniteProjects\Terminal.Gui\Terminal.Gui\Views\TextValidateField.cs,GetMargins,
-Terminal.Gui,Magic Number,Terminal.Gui,TextValidateField,DesigniteProjects\Terminal.Gui\Terminal.Gui\Views\TextValidateField.cs,GetMargins,
-Terminal.Gui,Magic Number,Terminal.Gui,TextValidateField,DesigniteProjects\Terminal.Gui\Terminal.Gui\Views\TextValidateField.cs,GetMargins,

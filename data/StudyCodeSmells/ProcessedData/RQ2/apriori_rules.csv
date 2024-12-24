@@ -1,3 +1,0 @@
-antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
-frozenset({'Magic Number'}),frozenset({'Long Statement'}),0.202834367,0.236492471,0.115146147,0.56768559,2.400438317,0.067177346,1.766093173,0.731854701
-frozenset({'Long Statement'}),frozenset({'Magic Number'}),0.236492471,0.202834367,0.115146147,0.486891386,2.400438317,0.067177346,1.553600176,0.764117437
