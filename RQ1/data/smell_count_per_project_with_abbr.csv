@@ -1,0 +1,31 @@
+Smell,BC,NM,PE,SR,TG,BLN,DWM,FD,GS,MPV
+Broken Hierarchy,15,0,0,20,0,8,20,23,11,0
+Broken Modularization,58,0,0,24,0,8,24,1,35,15
+Complex Conditional,5,0,0,111,0,22,7,13,25,0
+Complex Method,30,0,0,332,0,163,46,89,121,1
+Cyclic Hierarchy,0,0,0,9,0,5,1,14,9,0
+Cyclically-dependent Modularization,1,0,0,379,0,171,283,168,223,9
+Deficient Encapsulation,27,0,0,225,0,2,0,16,67,19
+Duplicate Abstraction,25,10,1,27,0,67,82,39,62,10
+Duplicate Code,0,0,0,2,0,17,0,2,0,0
+Empty Catch Block,26,0,0,57,0,0,0,25,33,0
+Feature Envy,4,0,0,28,0,1,7,5,25,0
+Hub-like Modularization,0,0,0,11,0,1,5,5,3,0
+Imperative Abstraction,0,0,0,1,0,0,1,1,1,0
+Insufficient Modularization,12,0,0,100,0,47,29,17,29,2
+Long Identifier,0,3,0,63,0,15,47,2160,44,3
+Long Method,10,0,0,77,0,51,2,16,39,1
+Long Parameter List,53,0,0,174,0,101,162,60,80,13
+Long Statement,171,8,3,1797,0,1554,165,453,462,24
+Magic Number,453,5,0,2529,3,8127,249,1049,2523,55
+Missing Default,3,3,1,13,0,92,82,9,37,9
+Missing Hierarchy,0,0,0,30,0,0,0,1,0,0
+Multifaceted Abstraction,0,0,0,7,0,0,1,1,1,0
+Multipath Hierarchy,0,0,0,3,0,71,1,1,10,0
+Rebellious Hierarchy,5,0,0,16,0,61,17,95,18,3
+Unexploited Encapsulation,0,0,0,103,0,0,11,9,0,0
+Unfactored Hierarchy,1,0,0,24,0,114,28,28,16,0
+Unnecessary Abstraction,109,0,0,77,0,13,69,16,94,12
+Unutilized Abstraction,141,9,7,52,4,15,57,49,31,28
+Virtual Method Call from Constructor,0,0,0,4,0,0,5,0,2,0
+Wide Hierarchy,2,0,0,5,0,6,6,8,9,0

@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "886e5eb128c109da",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6108a4be9433b74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96689b06bc1eae9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README_ProjectOverview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README_ProjectOverview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "decb7dafb958e144",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e5dd210691aeb4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeb0ac60af5324d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d9521f26858b5159",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f315be5b8e95b295",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea2d9e501a243533",
+    "type": "split",
+    "children": [
+      {
+        "id": "0db9fcb08c7c5450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d21c3eaa9d3e3263",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GitHub_Total_Extraction/README_GitHub_Total_Extraction.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README_GitHub_Total_Extraction.md"
+            }
+          },
+          {
+            "id": "0ddb700f31b82e33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GitHub_Total_Extraction/README_GitHub_Total_Extraction.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README_GitHub_Total_Extraction.md"
+            }
+          },
+          {
+            "id": "d336dfe8307afcb8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8a200d2452fdde7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GitHub_Total_Extraction/README_GitHub_Total_Extraction.md.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README_GitHub_Total_Extraction.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "96689b06bc1eae9f",
+  "lastOpenFiles": [
+    "RQ4/README_RQ4.md",
+    "RQ3/README_RQ3.md",
+    "RQ2/README_RQ2.md",
+    "RQ1/README_RQ1.md",
+    "GitHub_Total_Extraction/README_GitHub_Total_Extraction.md.md",
+    "Common_Raw_Data/README_CommonRawData.md",
+    "Common_Scripts/README_CommonScripts.md",
+    "README_ProjectOverview.md",
+    "RQ4/data/dfcs_dics_enrichi_final.csv",
+    "RQ4/Scripts/detect_dic.py",
+    "RQ4/data/filtered_dfcs_only.csv",
+    "RQ4/Scripts/identify_dfcs.py",
+    "RQ3/Scripts/visualize_churn_violin_boxplot.R",
+    "RQ3/data/global_tests.csv",
+    "RQ3/data/global_statistics.csv",
+    "RQ3/data/global_statisticsold.csv",
+    "RQ3/data/global_testsold.csv",
+    "RQ3/Scripts/analyse_statistique_globale.py",
+    "RQ1/data/heatmap_frequency_per_project.png",
+    "RQ1/data/heatmap_prevalence_per_project.png",
+    "RQ1/data/Rplot02.png",
+    "RQ1/data/heatmap_prevalence_final.png",
+    "RQ1/data/heatmap_prevalence_text_visible.png",
+    "RQ1/data/heatmap_prevalence_blue_palette.png",
+    "RQ1/data/heatmap_prevalence_lightblue_gradient.png",
+    "RQ1/data/heatmap_prevalence_start_median.png",
+    "RQ1/data/heatmap_prevalence_conditional_gradient.png",
+    "RQ1/data/heatmap_prevalence_only_high.png"
+  ]
+}

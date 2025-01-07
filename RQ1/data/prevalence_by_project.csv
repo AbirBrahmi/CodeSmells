@@ -1,0 +1,31 @@
+Smell,Blog.Core,boletonet,drywetmidi,fo-dicom,greenshot,mpv.net,NETworkManager,PixiEditor,Seal-Report,Terminal.Gui
+Unutilized Abstraction,25.00%,5.08%,5.40%,3.77%,4.41%,8.64%,1.01%,0.32%,6.29%,0.28%
+Unnecessary Abstraction,17.16%,4.41%,5.08%,1.37%,11.71%,1.82%,0,0,8.32%,0
+Duplicate Abstraction,3.17%,10.85%,3.18%,1.63%,6.62%,1.82%,0.45%,0.05%,2.84%,0
+Feature Envy,0.75%,0.34%,0.53%,0.43%,3.57%,0,0,0,2.03%,0
+Deficient Encapsulation,2.61%,0.68%,0,1.20%,5.26%,0.45%,0,0,17.04%,0
+Broken Modularization,9.89%,2.71%,2.22%,0.09%,4.24%,0.45%,0,0,2.64%,0
+Insufficient Modularization,1.87%,8.47%,2.01%,1.11%,2.38%,0.45%,0,0,6.29%,0
+Cyclically-dependent Modularization,0.19%,27.80%,13.77%,6.08%,15.45%,2.27%,0,0,28.40%,0
+Wide Hierarchy,0.37%,2.03%,0.64%,0.69%,1.53%,0,0,0,0.61%,0
+Broken Hierarchy,2.80%,2.71%,2.12%,1.80%,1.87%,0,0,0,3.04%,0
+Rebellious Hierarchy,0.93%,20.68%,1.17%,5.91%,2.55%,1.36%,0,0,2.64%,0
+Unfactored Hierarchy,0.19%,7.46%,2.01%,1.37%,2.04%,0,0,0,1.42%,0
+Long Method,1.68%,9.83%,0.21%,0.86%,5.94%,0.45%,0,0,8.11%,0
+Complex Method,3.54%,25.42%,3.60%,4.03%,9.85%,0.45%,0,0,13.18%,0
+Long Parameter List,5.04%,13.56%,4.77%,2.49%,6.96%,0.91%,0,0,8.52%,0
+Long Statement,11.01%,21.02%,7.10%,4.28%,19.69%,5.91%,0.78%,0.14%,22.92%,0
+Empty Catch Block,2.80%,0,0,1.71%,2.89%,0,0,0,4.26%,0
+Magic Number,12.31%,36.61%,8.37%,7.03%,21.22%,5.45%,0.22%,0,14.40%,0.14%
+Missing Default,0.56%,7.80%,4.77%,0.69%,3.74%,3.64%,0.22%,0.05%,1.42%,0
+Complex Conditional,0.19%,3.39%,0.42%,0.86%,3.06%,0,0,0,4.26%,0
+Hub-like Modularization,0,0.34%,0.53%,0.43%,0.51%,0,0,0,2.23%,0
+Cyclic Hierarchy,0,0.68%,0.11%,0.43%,0.51%,0,0,0,1.01%,0
+Multipath Hierarchy,0,24.07%,0.11%,0.09%,0.68%,0,0,0,0.61%,0
+Long Identifier,0,2.37%,2.97%,1.29%,2.55%,1.36%,0.11%,0,3.25%,0
+Duplicate Code,0,1.36%,0,0.17%,0,0,0,0,0.20%,0
+Unexploited Encapsulation,0,0,1.17%,0.43%,0,0,0,0,3.65%,0
+Multifaceted Abstraction,0,0,0.11%,0.09%,0.17%,0,0,0,0.81%,0
+Imperative Abstraction,0,0,0.11%,0.09%,0.17%,0,0,0,0.20%,0
+Missing Hierarchy,0,0,0,0.09%,0,0,0,0,2.43%,0
+Virtual Method Call from Constructor,0,0,0.32%,0,0.34%,0,0,0,0.81%,0
