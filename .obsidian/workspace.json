@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README_ProjectOverview.md",
+                "file": "RQ1/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README_ProjectOverview"
+              "title": "README"
             }
           }
         ]
@@ -164,13 +164,14 @@
   },
   "active": "96689b06bc1eae9f",
   "lastOpenFiles": [
-    "RQ4/README_RQ4.md",
-    "RQ3/README_RQ3.md",
-    "RQ2/README_RQ2.md",
-    "RQ1/README_RQ1.md",
-    "GitHub_Total_Extraction/README_GitHub_Total_Extraction.md.md",
-    "Common_Raw_Data/README_CommonRawData.md",
-    "Common_Scripts/README_CommonScripts.md",
+    "README.md",
+    "RQ4/README.md",
+    "RQ3/README.md",
+    "RQ2/README.md",
+    "RQ1/README.md",
+    "GitHub_Total_Extraction/README.md",
+    "Common_Scripts/README.md",
+    "Common_Raw_Data/README.md",
     "README_ProjectOverview.md",
     "RQ4/data/dfcs_dics_enrichi_final.csv",
     "RQ4/Scripts/detect_dic.py",

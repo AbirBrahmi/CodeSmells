@@ -13,7 +13,7 @@ Ce répertoire contient les fichiers de données brutes (« RawData ») utilisé
 - L'historique des commits des projets.
 
 #### Fichiers Clés
-- [README_CommonRawData](./Common_Raw_Data/README_CommonRawData) : Décrit le contenu des données brutes et leur organisation.
+- [README](Common_Raw_Data/README.md) : Décrit le contenu des données brutes et leur organisation.
 
 ---
 
@@ -23,7 +23,7 @@ Contient des scripts Python communs utiles pour :
 - L'analyse des dépôts GitHub.
 
 #### Fichiers Clés
-- [README_CommonScripts](./Common_Scripts/README_CommonScripts) : Fournit des détails sur chaque script, ses fonctionnalités et son utilisation.
+- [README](Common_Scripts/README.md) : Fournit des détails sur chaque script, ses fonctionnalités et son utilisation.
 
 ---
 
@@ -38,7 +38,7 @@ Ce répertoire contient les projets extraits de GitHub pour analyse.
    - Contient uniquement les projets sélectionnés pour l'étude après filtrage.
 
 #### Fichiers Clés
-- [README_GitHub_Total_Extraction.md](./GitHub_Total_Extraction/README_GitHub_Total_Extraction.md) : Explique l'organisation et les critères de sélection des projets.
+- [README_GitHub_Total_Extraction.md](GitHub_Total_Extraction/README.md) : Explique l'organisation et les critères de sélection des projets.
 
 ---
 
@@ -50,7 +50,7 @@ Analyse la prévalence des odeurs de code dans les projets .NET.
 - **Scripts** : Contient les scripts nécessaires pour cette étude.
 
 #### Fichiers Clés
-- [README_RQ1](./RQ1/README_RQ1) : Explique la méthodologie et les objectifs de cette étude.
+- [README](RQ1/README.md) : Explique la méthodologie et les objectifs de cette étude.
 
 ---
 
@@ -62,7 +62,7 @@ Explore les relations entre différentes odeurs de code dans les fichiers C#.
 - **Scripts** : Contient les scripts nécessaires pour cette étude..
 
 #### Fichiers Clés
-- [README_RQ2](./RQ2/README_RQ2) : Fournit des détails sur l'utilisation des algorithmes Apriori et des tests statistiques.
+- [README](RQ2/README.md) : Fournit des détails sur l'utilisation des algorithmes Apriori et des tests statistiques.
 
 ---
 
@@ -74,7 +74,7 @@ Analyse l'impact des odeurs de code sur la fréquence et le volume des modificat
 - **Scripts** : Contient les scripts nécessaires pour cette étude..
 
 #### Fichiers Clés
-- [README_RQ3](./RQ3/README_RQ3) : Explique la méthodologie et les résultats attendus.
+- [README](RQ3/README.md) : Explique la méthodologie et les résultats attendus.
 
 ---
 
@@ -86,7 +86,7 @@ Analyse l'impact des odeurs de code sur la propension des projets .NET à accumu
 - **Scripts** : Contient les scripts nécessaires pour cette étude..
 
 #### Fichiers Clés
-- [README_RQ4](./RQ4/README_RQ4) : Décrit la méthodologie de cette étude.
+- [README](RQ4/README.md) : Décrit la méthodologie de cette étude.
 
 ---
 
@@ -99,12 +99,12 @@ Cette organisation structurée permet une analyse approfondie des odeurs de code
 ## Références
 - **Documentation des questions de recherche** :
   - [README_ProjectOverview](./README_ProjectOverview.md)
-  - [Common_Raw_Data Documentation](./Common_Raw_Data/README_CommonRawData)
-  - [Common_Scripts Documentation](./Common_Scripts/README_CommonScripts)
-  - [GitHub_Total_Extraction Documentation](./GitHub_Total_Extraction/README_GitHub_Total_Extraction.md)
-  - [RQ1 Documentation](./RQ1/README_RQ1.md)
-  - [RQ2 Documentation](./RQ2/README_RQ2.md)
-  - [RQ3 Documentation](./RQ3/README_RQ3.md)
-  - [RQ4 Documentation](./RQ4/README_RQ4.md)
+  - [Common_Raw_Data Documentation](Common_Raw_Data/README.md)
+  - [Common_Scripts Documentation](Common_Scripts/README.md)
+  - [GitHub_Total_Extraction Documentation](GitHub_Total_Extraction/README.md)
+  - [RQ1 Documentation](RQ1/README.md)
+  - [RQ2 Documentation](RQ2/README.md)
+  - [RQ3 Documentation](RQ3/README.md)
+  - [RQ4 Documentation](RQ4/README.md)
 
 ---

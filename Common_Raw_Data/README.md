@@ -128,10 +128,10 @@ Ce document présente tous les fichiers de données brutes (*RawData*) utilisés
      - **RQ3** : `RQ3/`
      - **RQ4** : `RQ4/`
    - Consultez les fichiers spécifiques dans chaque dossier pour des instructions détaillées :
-     - [Documentation RQ1](../RQ1/README_RQ1.md)
-     - [Documentation RQ2](../RQ2/README_RQ2.md)
-     - [Documentation RQ3](../RQ3/README_RQ3.md)
-     - [Documentation RQ4](../RQ4/README_RQ4.md)
+     - [Documentation RQ1](RQ1/README.md)
+     - [Documentation RQ2](RQ2/README.md)
+     - [Documentation RQ3](RQ3/README.md)
+     - [Documentation RQ4](RQ4/README.md)
 
 ---
 
