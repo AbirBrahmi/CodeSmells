@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RQ1/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -164,14 +164,14 @@
   },
   "active": "96689b06bc1eae9f",
   "lastOpenFiles": [
-    "README.md",
     "RQ4/README.md",
     "RQ3/README.md",
     "RQ2/README.md",
     "RQ1/README.md",
     "GitHub_Total_Extraction/README.md",
-    "Common_Scripts/README.md",
     "Common_Raw_Data/README.md",
+    "Common_Scripts/README.md",
+    "README.md",
     "README_ProjectOverview.md",
     "RQ4/data/dfcs_dics_enrichi_final.csv",
     "RQ4/Scripts/detect_dic.py",
