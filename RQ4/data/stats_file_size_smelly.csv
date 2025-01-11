@@ -1,0 +1,9 @@
+,Churn_DFC,Churn_DFC,Churn_DFC,Churn_DIC,Churn_DIC,Churn_DIC,Defect_Propagation_Time,Defect_Propagation_Time,Defect_Propagation_Time,Type
+,mean,median,std,mean,median,std,mean,median,std,
+File_Size_Category,,,,,,,,,,
+Small,15.74,6.0,30.06,86.85,61.0,141.81,585.94,232.0,819.04,Smelly
+Medium,46.32,17.0,134.5,181.74,100.0,217.79,530.02,255.0,696.32,Smelly
+Large,166.26,35.0,403.5,364.62,128.0,614.95,535.81,320.0,593.1,Smelly
+Small,16.85,6.0,55.06,93.78,55.0,168.45,376.3,107.0,677.05,Non-Smelly
+Medium,44.99,16.0,85.67,270.41,148.0,325.85,258.52,67.0,489.17,Non-Smelly
+Large,158.58,30.0,649.57,1095.46,243.0,2076.57,285.48,105.0,427.07,Non-Smelly

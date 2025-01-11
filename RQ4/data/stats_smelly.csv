@@ -1,0 +1,7 @@
+,Churn_DFC,Churn_DIC,Defect_Propagation_Time,Type
+mean,76.6,211.92,550.49,Smelly
+median,15.0,86.0,274.0,Smelly
+std,255.7,403.87,708.63,Smelly
+mean,74.69,495.32,306.61,Non-Smelly
+median,13.0,108.0,91.0,Non-Smelly
+std,389.86,1310.36,542.64,Non-Smelly
